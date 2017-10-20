@@ -1,0 +1,9 @@
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dacpac
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\Model.xml
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\refactor.xml
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\postdeploy.sql
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\predeploy.sql
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\0d sat\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

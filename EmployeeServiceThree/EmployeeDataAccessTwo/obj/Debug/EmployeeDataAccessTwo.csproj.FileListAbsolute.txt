@@ -1,0 +1,9 @@
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\bin\Debug\EmployeeDataAccessTwo.dll.config
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\bin\Debug\EmployeeDataAccessTwo.dll
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\bin\Debug\EmployeeDataAccessTwo.pdb
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\bin\Debug\EntityFramework.dll
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\bin\Debug\EntityFramework.xml
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\obj\Debug\EmployeeDataAccessTwo.csprojResolveAssemblyReference.cache
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\obj\Debug\EmployeeDataAccessTwo.csproj.CoreCompileInputs.cache
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\obj\Debug\EmployeeDataAccessTwo.dll
+C:\Users\0d sat\source\repos\EmployeeServiceThree\EmployeeDataAccessTwo\obj\Debug\EmployeeDataAccessTwo.pdb

@@ -1,0 +1,15 @@
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EmployeeServiceTwo.deps.json
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EmployeeServiceTwo.runtimeconfig.json
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EmployeeServiceTwo.runtimeconfig.dev.json
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\ClassLibrary2.dll
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Debug\netcoreapp1.1\EmployeeServiceTwo.csprojResolveAssemblyReference.cache
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Debug\netcoreapp1.1\EmployeeServiceTwo.csproj.CoreCompileInputs.cache
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Debug\netcoreapp1.1\EmployeeServiceTwo.AssemblyInfo.cs
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EmployeeServiceTwo.dll
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EmployeeServiceTwo.pdb
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EntityFramework.dll
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\ClassLibrary2.pdb
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\ClassLibrary2.dll.config
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Debug\netcoreapp1.1\EntityFramework.xml
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Debug\netcoreapp1.1\EmployeeServiceTwo.dll
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Debug\netcoreapp1.1\EmployeeServiceTwo.pdb
