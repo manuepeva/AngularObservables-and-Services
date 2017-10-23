@@ -1,8 +1,0 @@
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\bin\Debug\netcoreapp1.1\ClassLibrary5.deps.json
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\bin\Debug\netcoreapp1.1\ClassLibrary5.dll
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\bin\Debug\netcoreapp1.1\ClassLibrary5.pdb
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\netcoreapp1.1\ClassLibrary5.csprojResolveAssemblyReference.cache
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\netcoreapp1.1\ClassLibrary5.csproj.CoreCompileInputs.cache
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\netcoreapp1.1\ClassLibrary5.AssemblyInfo.cs
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\netcoreapp1.1\ClassLibrary5.dll
-C:\Users\0d sat\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\netcoreapp1.1\ClassLibrary5.pdb

@@ -1,9 +1,0 @@
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\bin\Debug\ClassLibrary2.dll
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\bin\Debug\EntityFramework.dll
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\bin\Debug\EntityFramework.xml
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\obj\Debug\ClassLibrary2.dll
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
