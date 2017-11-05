@@ -12,7 +12,7 @@ namespace EmployeeDataAccess
     using System;
     using System.Collections.Generic;
     
-    public partial class EMPLOYEESTABLE 
+    public partial class EMPLOYEESTABLE
     {
         public int ID { get; set; }
         public string FIRST_NAME { get; set; }
