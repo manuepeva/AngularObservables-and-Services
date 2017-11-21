@@ -99,7 +99,7 @@ C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Microsoft
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\bin\Microsoft.AI.Web.xml
-C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Release\EmployeeServiceTwo.csprojResolveAssemblyReference.cache
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Release\EmployeeServiceTwo.csproj.CoreCompileInputs.cache
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Release\EmployeeServiceTwo.dll
 C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Release\EmployeeServiceTwo.pdb
+C:\Users\0d sat\source\repos\EmployeeServiceTwo\EmployeeServiceTwo\obj\Release\EmployeeServiceTwo.csprojResolveAssemblyReference.cache

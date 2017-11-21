@@ -246,23 +246,23 @@
     <Compile Include="Controllers\EmployeesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
-    <Compile Include="EmployeeDataModel.Context.cs">
+    <Compile Include="EmployeeModel1.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>EmployeeDataModel.Context.tt</DependentUpon>
+      <DependentUpon>EmployeeModel1.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="EmployeeDataModel.cs">
+    <Compile Include="EmployeeModel1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>EmployeeDataModel.tt</DependentUpon>
+      <DependentUpon>EmployeeModel1.tt</DependentUpon>
     </Compile>
-    <Compile Include="EmployeeDataModel.Designer.cs">
+    <Compile Include="EmployeeModel1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>EmployeeDataModel.edmx</DependentUpon>
+      <DependentUpon>EmployeeModel1.edmx</DependentUpon>
     </Compile>
     <Compile Include="EMPLOYEESTABLE.cs">
-      <DependentUpon>EmployeeDataModel.tt</DependentUpon>
+      <DependentUpon>EmployeeModel1.tt</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -279,19 +279,21 @@
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="EmployeeDataModel.Context.tt">
+    <Content Include="Data.html" />
+    <Content Include="EmployeeModel1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>EmployeeDataModel.edmx</DependentUpon>
-      <LastGenOutput>EmployeeDataModel.Context.cs</LastGenOutput>
+      <DependentUpon>EmployeeModel1.edmx</DependentUpon>
+      <LastGenOutput>EmployeeModel1.Context.cs</LastGenOutput>
     </Content>
-    <Content Include="EmployeeDataModel.tt">
+    <Content Include="EmployeeModel1.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>EmployeeDataModel.edmx</DependentUpon>
-      <LastGenOutput>EmployeeDataModel.cs</LastGenOutput>
+      <DependentUpon>EmployeeModel1.edmx</DependentUpon>
+      <LastGenOutput>EmployeeModel1.cs</LastGenOutput>
     </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Login.html" />
     <Content Include="Register.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -317,12 +319,12 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <EntityDeploy Include="EmployeeDataModel.edmx">
+    <EntityDeploy Include="EmployeeModel1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>EmployeeDataModel.Designer.cs</LastGenOutput>
+      <LastGenOutput>EmployeeModel1.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <Content Include="EmployeeDataModel.edmx.diagram">
-      <DependentUpon>EmployeeDataModel.edmx</DependentUpon>
+    <Content Include="EmployeeModel1.edmx.diagram">
+      <DependentUpon>EmployeeModel1.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
