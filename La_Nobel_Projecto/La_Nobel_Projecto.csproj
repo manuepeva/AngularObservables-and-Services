@@ -86,6 +86,7 @@
     <Content Include="quickstart\LICENSE" />
     <Content Include="quickstart\package.json" />
     <Content Include="quickstart\README.md" />
+    <Content Include="quickstart\src\app\EmployeeCount.Component.html" />
     <Content Include="quickstart\src\app\EmployeesList.Component.html" />
     <Content Include="quickstart\src\favicon.ico" />
     <Content Include="quickstart\src\index.html" />
@@ -117,6 +118,7 @@
     <TypeScriptCompile Include="quickstart\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.module.ts" />
+    <TypeScriptCompile Include="quickstart\src\app\EmployeeCount.Component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\EmployeeList.Component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\EmployeeService.component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\IEmployee.ts" />
