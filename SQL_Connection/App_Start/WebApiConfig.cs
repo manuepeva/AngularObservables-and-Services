@@ -16,8 +16,8 @@ namespace SQL_Connection
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                routeTemplate: "api/{controller}/{ID}",
+                defaults: new { ID = RouteParameter.Optional }
             );
         }
     }
