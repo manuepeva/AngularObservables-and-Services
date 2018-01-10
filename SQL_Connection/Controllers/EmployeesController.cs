@@ -16,5 +16,13 @@ namespace SQL_Connection.Controllers
                 return entities.EMPLOYEESTABLE.ToList();
             }
         }
+
+        public EMPLOYEESTABLE Get(string ID)
+        {
+            using (myDBConnection entities = new myDBConnection())
+            {
+                return entities.EMPLOYEESTABLE.FirstOrDefault(e => e.ID == ID);
+            }
+        }
     }
 }
