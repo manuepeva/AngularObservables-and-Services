@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "El_Asesino_De_La_Ilusion_Daniel_F", "El_Asesino_De_La_Ilusion_Daniel_F\El_Asesino_De_La_Ilusion_Daniel_F.csproj", "{BD1BDC29-7A0B-47D2-B57D-991C456D6218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_Connection", "SQL_Connection\SQL_Connection.csproj", "{64BD3A78-1F7C-430F-A22B-A45B0B69C908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1BDC29-7A0B-47D2-B57D-991C456D6218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1BDC29-7A0B-47D2-B57D-991C456D6218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1BDC29-7A0B-47D2-B57D-991C456D6218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BD3A78-1F7C-430F-A22B-A45B0B69C908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BD3A78-1F7C-430F-A22B-A45B0B69C908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BD3A78-1F7C-430F-A22B-A45B0B69C908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BD3A78-1F7C-430F-A22B-A45B0B69C908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506A236B-E35E-4F3A-8519-9D6566F2A1DB}
+	EndGlobalSection
+EndGlobal
