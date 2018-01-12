@@ -77,6 +77,19 @@
     <Content Include="bin\roslyn\vbc.exe.config" />
     <Content Include="bin\roslyn\vbc.rsp" />
     <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
     <Content Include="bin\El_Asesino_De_La_Ilusion_Daniel_F.dll" />
     <Content Include="bin\El_Asesino_De_La_Ilusion_Daniel_F.pdb" />
@@ -141,6 +154,12 @@
     <Content Include="quickstart\src\app\others\SimpleComponent.js.map" />
     <Content Include="quickstart\e2e\tsconfig.json" />
     <Content Include="quickstart\npm-debug.log.1905782234" />
+    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -176,6 +195,8 @@
     <TypeScriptCompile Include="quickstart\src\app\employee\EmployeeServiceComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\employee\EmployeesListComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\employee\IEmployee.ts" />
+    <TypeScriptCompile Include="quickstart\src\app\Home\HomeComponent.ts" />
+    <TypeScriptCompile Include="quickstart\src\app\others\PageNotFoundComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\others\SimpleComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\main.ts" />
   </ItemGroup>
