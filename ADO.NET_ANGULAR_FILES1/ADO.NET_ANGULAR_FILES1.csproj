@@ -80,7 +80,13 @@
     <Content Include="quickstart\LICENSE" />
     <Content Include="quickstart\package.json" />
     <Content Include="quickstart\README.md" />
+    <Content Include="quickstart\src\app\app.component.js" />
+    <Content Include="quickstart\src\app\app.component.spec.js" />
+    <Content Include="quickstart\src\app\app.module.js" />
+    <Content Include="quickstart\src\app\employee\employeeComponent.css" />
     <Content Include="quickstart\src\app\employee\EmployeeComponent.html" />
+    <Content Include="quickstart\src\app\employee\EmployeeComponent.js" />
+    <Content Include="quickstart\src\main.js" />
     <Content Include="quickstart\src\tsconfig.json" />
     <Content Include="quickstart\tslint.json" />
     <Content Include="quickstart\src\app\home\HomeComponent.js.map" />
@@ -93,6 +99,10 @@
     <Content Include="quickstart\src\app\others\IEmployee.js.map" />
     <Content Include="quickstart\src\app\others\PageNotFoundComponent.js.map" />
     <Content Include="quickstart\src\app\others\SimpleComponent.js.map" />
+    <Content Include="quickstart\src\main.js.map" />
+    <Content Include="quickstart\src\app\app.component.js.map" />
+    <Content Include="quickstart\src\app\app.component.spec.js.map" />
+    <Content Include="quickstart\src\app\app.module.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

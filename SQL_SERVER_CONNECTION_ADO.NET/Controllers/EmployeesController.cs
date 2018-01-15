@@ -17,11 +17,11 @@ namespace SQL_SERVER_CONNECTION_ADO.NET.Controllers
             }
         }
 
-        public EMPLOYEESTABLE Get(string id)
+        public EMPLOYEESTABLE Get(string ID)
         {
             using (myDBConnection entities = new myDBConnection())
             {
-                return entities.EMPLOYEESTABLE.FirstOrDefault(e => e.ID == id);
+                return entities.EMPLOYEESTABLE.FirstOrDefault(e => e.ID == ID);
             }
         }
     }
