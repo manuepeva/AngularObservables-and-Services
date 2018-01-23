@@ -71,6 +71,11 @@
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\El_Asesino_De_La_Ilusion_Daniel_F1.csproj.CoreCompileInputs.cache" />
     <None Include="packages.config" />
+    <Content Include="quickstart\e2e\app.e2e-spec.js" />
+    <Content Include="quickstart\src\app\app.component.js" />
+    <Content Include="quickstart\src\app\app.component.spec.js" />
+    <Content Include="quickstart\src\app\app.module.js" />
+    <Content Include="quickstart\src\main.js" />
     <Content Include="quickstart\src\tsconfig.json" />
     <Content Include="quickstart\.editorconfig" />
     <Content Include="quickstart\.travis.yml" />
@@ -91,6 +96,12 @@
     <Content Include="quickstart\src\app\Others\IEmployee.js.map" />
     <Content Include="quickstart\src\app\Others\PageNotFoundComponent.js.map" />
     <Content Include="quickstart\src\app\Others\SimpleComponent.js.map" />
+    <Content Include="quickstart\e2e\app.e2e-spec.js.map" />
+    <Content Include="quickstart\e2e\tsconfig.json" />
+    <Content Include="quickstart\src\app\app.component.js.map" />
+    <Content Include="quickstart\src\app\app.component.spec.js.map" />
+    <Content Include="quickstart\src\app\app.module.js.map" />
+    <Content Include="quickstart\src\main.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -135,6 +146,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="quickstart\e2e\app.e2e-spec.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.module.ts" />
