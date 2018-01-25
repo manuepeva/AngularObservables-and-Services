@@ -112,6 +112,8 @@
     <Content Include="quickstart\src\app\app.component.js.map" />
     <Content Include="quickstart\src\app\app.component.spec.js.map" />
     <Content Include="quickstart\src\app\app.module.js.map" />
+    <Content Include="quickstart\src\app\Employee\EmployeeComponent.css" />
+    <Content Include="quickstart\src\app\Employee\EmployeeComponent.html" />
     <Content Include="quickstart\src\app\Employee\EmployeeCountComponent.css" />
     <Content Include="quickstart\src\app\Employee\EmployeeCountComponent.html" />
     <Content Include="quickstart\src\app\Employee\EmployeeCountComponent.js" />
@@ -178,6 +180,7 @@
     <TypeScriptCompile Include="quickstart\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.component.ts" />
     <TypeScriptCompile Include="quickstart\src\app\app.module.ts" />
+    <TypeScriptCompile Include="quickstart\src\app\Employee\EmployeeComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\Employee\EmployeeCountComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\Employee\EmployeeServiceComponent.ts" />
     <TypeScriptCompile Include="quickstart\src\app\Employee\EmployeesListComponent.ts" />
