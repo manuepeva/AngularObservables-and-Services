@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Element HTML</title>
+    <style>
+        body, html{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            max-height: 20vh;
+        }
+        *, *:before, *:after{
+            margin:0;
+            padding:0;
+        }
+        /* .wrapper{ */
+            /* padding: 5vh 25vw;
+            max-height: 25px; */
+            /* width: 600px;
+            height: 600px !important;
+        } */
+        .wrapper {
+            margin: 0 auto;
+            width: 100%;
+        }
+        .videowrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            /* padding-top: 25px; */
+            height: 0px;
+        }
+        .videowrapper video {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+       <div class="videowrapper">
+        <h>Video Element</h>
+        <video controls autoplay >
+            <source src="/video.mp4" type="video/mp4"/>
+            <!-- <source src="/video2.3gpp" type="video/3gpp"/> -->
+        </video>
+       </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Challenge HackerRank</title>
+    <style>
+        body, html, *:after, *:before{
+            margin:0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: rgb(221, 198, 198);
+        }
+    </style>
+</head>
+<body>
+    <h1>Test Challenge HackerRank</h1>
+    <div id="container"></div>
+    <script>
+        // var dooni = document.getElementById('container');
+        // var dat = new Date();
+        
+        // dooni.innerHTML = dat;
+        // function Employee(name){
+        //     this.name = name;
+        // }
+        // Employee.prototype.getName = function(){
+        //     return this.name;
+        // }
+        // var e1 = new Employee('Mark');
+        // var e2 = new Employee('Twain');
+        // document.write("E1 name is: "+ e1.getName() + "<br />");
+        // document.write("E2 name is: "+ e2.getName() + "<br />");
+
+        function Fruits(type){
+            this.type = type;
+            this.color = 'unknown';
+            this.getInformation = getFruitInfo;
+        }
+        function getFruitInfo(){
+            return 'This ' + this.type + ' is ' + this.color +  ' . ';
+        }
+        let limon = new Fruits('Colombian Rosa');
+        document.write(limon.getInformation());
+        limon.color = 'green';
+        document.write(limon.getInformation());
+
+        function Chichas(type){
+            this.type = type;
+            this.color = 'unknown';
+            this.getInformation = function(){
+                return 'This ' + this.type + ' is ' + this.color + ' . ';
+            }
+        }
+        let tun = new Chichas('Brasilean coca');
+        document.write(tun.getInformation());
+        tun.color = 'light';
+        document.write(tun.getInformation());
+
+        function Aguas(type){
+            this.type = type;
+            this.color = 'unknown';
+        }
+
+        Aguas.prototype.getInformation = function(){
+            return 'This ' + this.type + ' is ' + this.color + ' . ';
+        }
+        let sas = new Aguas('Costa Rica Mango');
+        document.write(sas.getInformation());
+        sas.color = 'purple';
+        document.write(sas.getInformation());
+
+        let lime = {
+            type: 'Peruvian Pisco',
+            color: 'clear',
+            getInformation: function(){
+                return 'This ' + this.type + ' is ' + this.color + ' . ';
+            }
+        }
+        document.write(lime.getInformation());
+        lime.color = 'dorado';
+        document.write(lime.getInformation());
+
+        class Charki {
+            constructor(height, width){
+                this.width = width;
+                this.height = height;
+            }
+        }
+        let samoa = new Charki(3, 4);
+        console.log('Charki sus', samoa)
+
+       let Sasa = class {
+           constructor(height, width){
+               this.height = height;
+               this.width = width;
+           }
+       }
+       console.log(Sasa);
+       let nuevo = new Sasa(1, 5);
+       console.log(nuevo);
+    </script>
+</body>
+</html>
