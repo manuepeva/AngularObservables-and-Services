@@ -1,27 +1,18 @@
-# FrontEndKataTest
+Title: Angular Observables 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+Description: Project created using the angular ng new command and using the angular-cli, rxjs and sass to create a single page application.
 
-## Development server
+Objective: Deliver a customer facing application that dynamically changes and updates the fields inside of it, by using observables, sucriptions and Angular Injection.
+[![Header](https://raw.githubusercontent.com/manuepeva/AngularObservables-and-Services/master/test.png "Header")](https://raw.githubusercontent.com/manuepeva/AngularObservables-and-Services/master/test.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-SCSS-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FRAMEWORK-ANGULAR11-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/EDITOR-VISUALSTUDIO-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SHELL-GITBASH-informational?style=flat&logoColor=white&color=2bbc8a)
 
-## Code scaffolding
+![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuepeva&show_icons=true&theme=tokyonight)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+🇵🇪
