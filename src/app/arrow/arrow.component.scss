@@ -1,0 +1,35 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 10vh;
+  p {
+    display: block;
+    margin-top: 5vh;
+  }
+  .hover>img:hover{
+      background-color: red;
+  }
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  p {
+    display: flex;
+    margin: 1px 0 2vh 0;
+  }
+  .col-2 {
+    margin-left: 3vh;
+  }
+}
+.col.col-2 {
+  margin-left: 12vh;
+}
+$breakpoint-tablet: 768px;
+@media (max-width: $breakpoint-tablet) {
+  .mobile, .mobile-row{
+    display: flex;
+    margin: 0 0 0 19vh;
+  }
+}
+

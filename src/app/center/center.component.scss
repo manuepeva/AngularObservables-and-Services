@@ -1,0 +1,55 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  .text-passenger {
+    width: 28vh;
+  }
+  .text-passenger span {
+    color: #848484;
+    margin-top: 1vh;
+    text-transform: uppercase;
+  }
+  .text-passenger span:first-of-type {
+    margin-top: 3vh;
+  }
+  .text-passenger p {
+    margin-top: 1.5vh;
+  }
+  .icon-elem p {
+    margin: 0 0 3px 3px;
+  }
+  .icon-text {
+    margin-top: 1vh;
+  }
+  .icon-text p:nth-child(2) {
+    color: #9f9595;
+  }
+  .pay-section div {
+    width: 27vh;
+    height: 12vh;
+    margin: 1vh;
+  }
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  .icon {
+    border-radius: 58%;
+    height: 8vh;
+    width: 9vh;
+  }
+}
+.hover:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+$breakpoint-tablet: 768px;
+@media (max-width: $breakpoint-tablet) {
+  .mobile {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 19vh;
+  }
+}

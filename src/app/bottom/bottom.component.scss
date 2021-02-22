@@ -1,0 +1,39 @@
+.container{
+    margin-left: 10vh;
+}
+.container hr{
+    width: 80vh;
+    color: #848484;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5vh;
+    section{
+        margin: 0 5vh;
+    }
+    section:nth-child(1){
+        margin-left: 0;
+    }
+    p{
+        display: block;
+        color: #848484;
+        margin-top: 0;
+    }
+}
+$breakpoint-tablet: 768px;
+@media (max-width: $breakpoint-tablet) {
+  .mobile {
+    display: flex;
+    flex-direction: column;
+    hr{
+        width: 30vh;
+    }
+    div{
+        flex-direction: column;
+    }
+    section:nth-child(1){
+        margin-left: 5vh;
+    }
+  }
+}
